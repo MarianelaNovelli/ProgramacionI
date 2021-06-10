@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+main()
+
+{
+    printf("\nUTN FRSN - TECNICATURA UNIVERSITARIA EN PROGRAMACION - PROGRAMACION I\n");
+    printf("\nTRABAJO PRACTICO N%c 3: GITHUB\n\n", 248);
+ 
+    return 0; 
+}
